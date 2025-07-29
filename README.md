@@ -21,7 +21,21 @@
 ## 🧠 My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,git,github,vscode,firebase,figma,net,csharp,sql" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=net" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=csharp" title="C#" />
+  <img src="https://skillicons.dev/icons?i=sql" title="SQL" />
 </p>
 
 <p align="center">
