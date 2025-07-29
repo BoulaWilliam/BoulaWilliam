@@ -10,18 +10,22 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm Boula William, Front-End Developer (React.js) passionate about building responsive and visually engaging web applications.
-- 🚀 I've completed 25+ live projects using React, JavaScript, and REST APIs, and one of them was integrated with firebase.
-- 🔧 I also have backend development experience using ASP.NET MVC & ASP.NET Core.
-- 🧠 Constantly learning and exploring new tools, libraries, and technologies.
-- 🎯 Currently preparing for a job to connect with top tech companies.
+- 🎓 I'm **Boula William**, a Front-End Developer (React.js) passionate about building responsive and engaging web apps.
+- 🚀 I've built **25+ live projects** using React, JavaScript, and REST APIs — including Firebase-integrated apps.
+- 🧩 I also have backend skills using **ASP.NET MVC** & **ASP.NET Core**.
+- 💡 Constant learner of tools, UI/UX patterns, and modern tech stacks.
+- 🎯 Actively looking for a full-time role with forward-thinking companies.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🧠 My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,git,github,firebase,figma,vscode,net,csharp,sql" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,git,github,vscode,firebase,figma,net,csharp,sql" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Frontend+-+React.js%2C+Tailwind%2C+Bootstrap%2C+JS;Backend+-+ASP.NET+Core+%2F+MVC%2C+SQL;Tools+-+Git%2C+Firebase%2C+Vercel%2C+Figma" />
 </p>
 
 ---
@@ -36,29 +40,28 @@
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Featured Projects
 
-> 🟢 Many live demos are available on my [portfolio website](https://my-portfolio-zeta-gray-32.vercel.app/). Some repos are private but deployed.
+> 🔗 **Check out more live demos on my [portfolio site](https://my-portfolio-zeta-gray-32.vercel.app/)**
 
-Here are a few examples:
+Here are some examples:
 
-- 🎮 Game Finder App using API + Bootstrap
-- 🏡 Furnalix with Firebase Auth and Firestore
-- 🛒 Fresh Cart with Route API + Auth and Payment
-- ☕ Coffe Shop Website using HTHML,CSS and JavaScript 
-- 🛍️ E-Commerce Back-End using ASP.NET API
+- 🎮 **Game Finder App** – API Integration + Bootstrap
+- 🏡 **Furnalix** – Firebase Auth + Firestore
+- 🛒 **Fresh Cart** – Route API + Auth + Payment System
+- ☕ **Coffee Shop** – Built with HTML, CSS, JS
+- 🔧 **E-Commerce Backend** – Built using ASP.NET Web API
 
 ---
 
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:boula.william@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/boula-william/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:boulawilliam@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/boula/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://my-portfolio-zeta-gray-32.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23333333?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-> 🧠 *"Driven by code. Focused on clean design. Eager to learn and grow in the tech world."*
-
+> 💡 *"Driven by code. Focused on clean design. Eager to grow in the tech world."*
