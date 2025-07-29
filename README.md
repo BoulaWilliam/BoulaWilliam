@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Boula+William;Frontend+(React)+Developer;With+ASP.NET+Backend+Skills;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Boula+William;Frontend+(React)+Developer;With+ASP.NET+Backend+Skills;Building+Modern+Web+Apps" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 
 ---
@@ -20,23 +20,25 @@
 
 ## 🧠 My Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=net" title=".NET" />
-  <img src="https://skillicons.dev/icons?i=csharp" title="C#" />
-  <img src="https://skillicons.dev/icons?i=sql" title="SQL" />
-</p>
+<div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=net" alt=".NET" title=".NET" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" title="C#" width="45" style="transition:transform 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" width="45" style="transition:transform 0.3s ease;" />
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Frontend+-+React.js%2C+Tailwind%2C+Bootstrap%2C+JS;Backend+-+ASP.NET+Core+%2F+MVC%2C+SQL;Tools+-+Git%2C+Firebase%2C+Vercel%2C+Figma" />
@@ -60,11 +62,11 @@
 
 Here are some examples:
 
-- 🎮 **Game Finder App** – API Integration + Bootstrap
-- 🏡 **Furnalix** – Firebase Auth + Firestore
-- 🛒 **Fresh Cart** – Route API + Auth + Payment System
-- ☕ **Coffee Shop** – Built with HTML, CSS, JS
-- 🔧 **E-Commerce Backend** – Built using ASP.NET Web API
+- 🎮 **Game Finder App** – API Integration + Bootstrap  
+- 🏡 **Furnalix** – Firebase Auth + Firestore  
+- 🛒 **Fresh Cart** – Route API + Auth + Payment System  
+- ☕ **Coffee Shop** – Built with HTML, CSS, JS  
+- 🔧 **E-Commerce Backend** – Built using ASP.NET Web API  
 
 ---
 
@@ -77,5 +79,5 @@ Here are some examples:
 </p>
 
 ---
+ 💡 *"Driven by code. Focused on clean design. Eager to grow in the tech world."*
 
-> 💡 *"Driven by code. Focused on clean design. Eager to grow in the tech world."*
